@@ -1,7 +1,8 @@
 # NYC Housing Exploration
 An exploration of the NYC Property Sales dataset from Kaggle. 
 
-I used the Kaggle dataset on NYC property sales in order to conduct data analysis - this included the creation of Tableau dashboards to accompany the various regression models within the notebook. 
+I used the Kaggle dataset on NYC property sales in order to conduct data analysis - this included the creation of Tableau dashboards (https://public.tableau.com/views/NYC_Rolling_Sales/Dashboard1?:display_count=y&:origin=viz_share_link) to accompany the various regression models within the notebook. 
+
 
 ## Introduction
 
@@ -31,7 +32,7 @@ Boxplots were created to visualize the distribution and outliers were then remov
 
 Questions for further analysis arose at this point - it appeared that both gross and land square feet formed distinct clusters based on the borough, with distinct regions. For example, Brooklyn seemed to have lower square footage but higher sale prices relative to Staten Island, which had similar gross square footage but higher land square feet at a lower sale price, while Queens fell between the two. 
 
-What distinct housing patterns based on the Borough could be leveraged to further understand the sale price?
+What distinct housing patterns based on the borough could be leveraged to further understand the sale price?
 
 #### Residential, Commercial, & Total Units
 
