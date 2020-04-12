@@ -49,6 +49,10 @@ A number of questions arose:
 
 How do the number of units within each neighborhood/borough differ? Are more expensive boroughs filled with fewer, but more pricey properties? Are less expensive boroughs concentrated with smaller sized units or are they priced lower due to other factors?
 
+Using the Tableau dashboards, it became evident that Manhattan was concentrated with fewer but more expensive units as compared to the other boroughs. There are a few neighborhoods with expensive units, namely Midtown CBD and Javits Center. In contrast, Staten Island has fewer total units, which are also generally less expensive - as well, Staten Island contains newer housing units. Queens and Brooklyn, which contain the most units respectively, are generally much less expensive, with their neighborhoods having similar average sale prices.
+
+An interesting observation was also that transfer of deeds occurred at the highest frequency within Manhattan, Brooklyn, and Queens - the three most expensive boroughs - which could be a reflection on the population demographics and wealth disitrbution within NYC. 
+
 #### Building Class Category
 
 I followed a similar process (created pivot tables and barplots) to examine the building class categories, the class at present, and the class at the time of sale. With regards to categories, rental apartments, homes, and lofts were the most expensive respectively.
@@ -58,6 +62,8 @@ The highest mean prices for the building class at present and at the time of sal
 Questions that arose:
 
 Are the concentration of the building class categories different by the borough (i.e. are cheaper building categories more heavily concentrated in specific boroughs)? Does a recategorization of the building class affect the sale price?
+
+The dashboards revealed that the most common building categories are one and two family dwellings in all boroughs except Manhattan, where elevator apartments are the greatest category. Family dwellings in Manhattan were significantly low in concentration - this could be another reflection of the typical demographic of the borough.   
 
 #### Tax Class 
 
